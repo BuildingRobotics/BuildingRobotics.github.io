@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "SEYP2W2ZZ9.com.buildingrobotics.comfy",
-        "paths": [ "/app/*", "/login/*", "/authenticate/*", "NOT /insights/*"]
+        "paths": [ "*", "/"]
       }
     ]
   }
